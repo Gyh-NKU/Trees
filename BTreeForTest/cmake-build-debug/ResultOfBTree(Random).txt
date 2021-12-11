@@ -1,0 +1,253 @@
+Test For Random Data:
+
+Test 1
+nums of data: 10000
+inserting costs: 0.005s
+finding costs: 0.000s
+removing costs: 0.008s
+Test 2
+nums of data: 20000
+inserting costs: 0.013s
+finding costs: 0.001s
+removing costs: 0.018s
+Test 3
+nums of data: 30000
+inserting costs: 0.013s
+finding costs: 0.001s
+removing costs: 0.031s
+Test 4
+nums of data: 40000
+inserting costs: 0.020s
+finding costs: 0.000s
+removing costs: 0.041s
+Test 5
+nums of data: 50000
+inserting costs: 0.024s
+finding costs: 0.001s
+removing costs: 0.048s
+Test 6
+nums of data: 60000
+inserting costs: 0.042s
+finding costs: 0.001s
+removing costs: 0.061s
+Test 7
+nums of data: 70000
+inserting costs: 0.048s
+finding costs: 0.001s
+removing costs: 0.073s
+Test 8
+nums of data: 80000
+inserting costs: 0.058s
+finding costs: 0.001s
+removing costs: 0.080s
+Test 9
+nums of data: 90000
+inserting costs: 0.052s
+finding costs: 0.001s
+removing costs: 0.101s
+Test 10
+nums of data: 100000
+inserting costs: 0.060s
+finding costs: 0.000s
+removing costs: 0.100s
+Test 11
+nums of data: 110000
+inserting costs: 0.064s
+finding costs: 0.001s
+removing costs: 0.107s
+Test 12
+nums of data: 120000
+inserting costs: 0.071s
+finding costs: 0.001s
+removing costs: 0.118s
+Test 13
+nums of data: 130000
+inserting costs: 0.083s
+finding costs: 0.001s
+removing costs: 0.136s
+Test 14
+nums of data: 140000
+inserting costs: 0.082s
+finding costs: 0.001s
+removing costs: 0.142s
+Test 15
+nums of data: 150000
+inserting costs: 0.094s
+finding costs: 0.001s
+removing costs: 0.154s
+Test 16
+nums of data: 160000
+inserting costs: 0.109s
+finding costs: 0.001s
+removing costs: 0.163s
+Test 17
+nums of data: 170000
+inserting costs: 0.105s
+finding costs: 0.001s
+removing costs: 0.169s
+Test 18
+nums of data: 180000
+inserting costs: 0.111s
+finding costs: 0.001s
+removing costs: 0.178s
+Test 19
+nums of data: 190000
+inserting costs: 0.121s
+finding costs: 0.000s
+removing costs: 0.195s
+Test 20
+nums of data: 200000
+inserting costs: 0.129s
+finding costs: 0.001s
+removing costs: 0.213s
+Test 21
+nums of data: 210000
+inserting costs: 0.142s
+finding costs: 0.000s
+removing costs: 0.218s
+Test 22
+nums of data: 220000
+inserting costs: 0.140s
+finding costs: 0.000s
+removing costs: 0.217s
+Test 23
+nums of data: 230000
+inserting costs: 0.151s
+finding costs: 0.000s
+removing costs: 0.230s
+Test 24
+nums of data: 240000
+inserting costs: 0.156s
+finding costs: 0.001s
+removing costs: 0.249s
+Test 25
+nums of data: 250000
+inserting costs: 0.171s
+finding costs: 0.001s
+removing costs: 0.263s
+Test 26
+nums of data: 260000
+inserting costs: 0.171s
+finding costs: 0.001s
+removing costs: 0.284s
+Test 27
+nums of data: 270000
+inserting costs: 0.195s
+finding costs: 0.001s
+removing costs: 0.303s
+Test 28
+nums of data: 280000
+inserting costs: 0.231s
+finding costs: 0.001s
+removing costs: 0.303s
+Test 29
+nums of data: 290000
+inserting costs: 0.201s
+finding costs: 0.001s
+removing costs: 0.316s
+Test 30
+nums of data: 300000
+inserting costs: 0.202s
+finding costs: 0.001s
+removing costs: 0.316s
+Test 31
+nums of data: 310000
+inserting costs: 0.210s
+finding costs: 0.001s
+removing costs: 0.333s
+Test 32
+nums of data: 320000
+inserting costs: 0.217s
+finding costs: 0.001s
+removing costs: 0.349s
+Test 33
+nums of data: 330000
+inserting costs: 0.237s
+finding costs: 0.001s
+removing costs: 0.366s
+Test 34
+nums of data: 340000
+inserting costs: 0.233s
+finding costs: 0.001s
+removing costs: 0.368s
+Test 35
+nums of data: 350000
+inserting costs: 0.258s
+finding costs: 0.000s
+removing costs: 0.386s
+Test 36
+nums of data: 360000
+inserting costs: 0.259s
+finding costs: 0.000s
+removing costs: 0.376s
+Test 37
+nums of data: 370000
+inserting costs: 0.260s
+finding costs: 0.001s
+removing costs: 0.395s
+Test 38
+nums of data: 380000
+inserting costs: 0.270s
+finding costs: 0.001s
+removing costs: 0.397s
+Test 39
+nums of data: 390000
+inserting costs: 0.271s
+finding costs: 0.001s
+removing costs: 0.408s
+Test 40
+nums of data: 400000
+inserting costs: 0.282s
+finding costs: 0.000s
+removing costs: 0.417s
+Test 41
+nums of data: 410000
+inserting costs: 0.289s
+finding costs: 0.001s
+removing costs: 0.430s
+Test 42
+nums of data: 420000
+inserting costs: 0.294s
+finding costs: 0.001s
+removing costs: 0.431s
+Test 43
+nums of data: 430000
+inserting costs: 0.302s
+finding costs: 0.000s
+removing costs: 0.445s
+Test 44
+nums of data: 440000
+inserting costs: 0.303s
+finding costs: 0.001s
+removing costs: 0.458s
+Test 45
+nums of data: 450000
+inserting costs: 0.325s
+finding costs: 0.001s
+removing costs: 0.468s
+Test 46
+nums of data: 460000
+inserting costs: 0.327s
+finding costs: 0.001s
+removing costs: 0.475s
+Test 47
+nums of data: 470000
+inserting costs: 0.335s
+finding costs: 0.001s
+removing costs: 0.524s
+Test 48
+nums of data: 480000
+inserting costs: 0.346s
+finding costs: 0.001s
+removing costs: 0.519s
+Test 49
+nums of data: 490000
+inserting costs: 0.352s
+finding costs: 0.000s
+removing costs: 0.520s
+Test 50
+nums of data: 500000
+inserting costs: 0.351s
+finding costs: 0.001s
+removing costs: 0.528s
+

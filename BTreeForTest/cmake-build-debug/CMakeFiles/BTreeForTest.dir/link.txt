@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\BTreeForTest.dir/objects.a
+D:\dev\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\BTreeForTest.dir/objects.a @CMakeFiles\BTreeForTest.dir\objects1.rsp
+D:\dev\Dev-Cpp\MinGW64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\BTreeForTest.dir/objects.a -Wl,--no-whole-archive -o BTreeForTest.exe -Wl,--out-implib,libBTreeForTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BTreeForTest.dir\linklibs.rsp
